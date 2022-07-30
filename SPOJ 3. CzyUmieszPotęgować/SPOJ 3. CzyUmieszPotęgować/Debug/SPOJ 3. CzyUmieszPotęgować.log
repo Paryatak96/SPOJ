@@ -1,0 +1,5 @@
+﻿  SPOJ 3. CzyUmieszPotęgować.cpp
+C:\Users\Sebastian\Source\Repos\SPOJ 3. CzyUmieszPotęgować\SPOJ 3. CzyUmieszPotęgować\SPOJ 3. CzyUmieszPotęgować.cpp(32,9): warning C4477: „printf”: ciąg formatu „%ld” wymaga argumentu typu „long”, ale argument 1 ze zmienną liczbą argumentów ma typ „time_t”
+C:\Users\Sebastian\Source\Repos\SPOJ 3. CzyUmieszPotęgować\SPOJ 3. CzyUmieszPotęgować\SPOJ 3. CzyUmieszPotęgować.cpp(32,9): message : rozważ użycie elementu „%lld” w ciągu formatu
+C:\Users\Sebastian\Source\Repos\SPOJ 3. CzyUmieszPotęgować\SPOJ 3. CzyUmieszPotęgować\SPOJ 3. CzyUmieszPotęgować.cpp(32,9): message : rozważ użycie elementu „%I64d” w ciągu formatu
+  SPOJ 3. CzyUmieszPotęgować.vcxproj -> C:\Users\Sebastian\Source\Repos\SPOJ 3. CzyUmieszPotęgować\Debug\SPOJ 3. CzyUmieszPotęgować.exe
